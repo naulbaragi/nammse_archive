@@ -3,7 +3,6 @@ import React, { useEffect, useState, useRef } from 'react';
 import { css } from '@emotion/react';
 import MainComponent from './MainComponent';
 import axios from 'axios';
-import { useLocation } from 'react-router-dom';
 import { nammseAPI_url } from '../../Url';
 
 const mainComponent = css`

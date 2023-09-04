@@ -7,7 +7,6 @@ import ImageComponent from './ImageComponent';
 const nammsebase = css`
 text-align: center;
 background: #bfff58;
-// background-image: url("/Image/Untitled.png");
 `;
 
 function Nammsebase() {
