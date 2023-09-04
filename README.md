@@ -5,14 +5,13 @@ Nammse Project는 나얼이 매주 금요일마다 선곡해, 제작하는 프�
 http://nammse.site/
 
 
-https://github.com/naulbaragi/nammse_archive/assets/108186606/6e81bd74-0f9b-45f4-9dd2-5dcf327dad1c
+
 메인 화면
 
-https://github.com/naulbaragi/nammse_archive/assets/108186606/49a482b8-dedd-4454-a86f-8bd39a3eb722
+
 
 Discography 화면
 
-https://github.com/naulbaragi/nammse_archive/assets/108186606/39d14a4c-7451-41a6-958c-c2356f1d281a
 
 nammse 서비스 구조도
 
