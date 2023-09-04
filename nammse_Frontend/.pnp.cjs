@@ -42,6 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:5.60.0"],\
             ["@typescript-eslint/parser", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:5.60.0"],\
             ["axios", "npm:1.4.0"],\
+            ["emotion-normalize", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:11.0.1"],\
             ["eslint", "npm:8.43.0"],\
             ["eslint-plugin-react", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:7.32.2"],\
             ["prop-types", "npm:15.8.1"],\
@@ -8583,6 +8584,32 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["emotion-normalize", [\
+        ["npm:11.0.1", {\
+          "packageLocation": "./.yarn/cache/emotion-normalize-npm-11.0.1-b4905b7500-f33c6ac75e.zip/node_modules/emotion-normalize/",\
+          "packageDependencies": [\
+            ["emotion-normalize", "npm:11.0.1"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:11.0.1", {\
+          "packageLocation": "./.yarn/__virtual__/emotion-normalize-virtual-8df89d7d72/0/cache/emotion-normalize-npm-11.0.1-b4905b7500-f33c6ac75e.zip/node_modules/emotion-normalize/",\
+          "packageDependencies": [\
+            ["emotion-normalize", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:11.0.1"],\
+            ["@emotion/react", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:11.11.1"],\
+            ["@types/emotion__react", null],\
+            ["@types/react", "npm:18.2.14"],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@emotion/react",\
+            "@types/emotion__react",\
+            "@types/react",\
+            "react"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["encodeurl", [\
         ["npm:1.0.2", {\
           "packageLocation": "./.yarn/cache/encodeurl-npm-1.0.2-f8c8454c41-e50e3d508c.zip/node_modules/encodeurl/",\
@@ -8650,6 +8677,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:5.60.0"],\
             ["@typescript-eslint/parser", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:5.60.0"],\
             ["axios", "npm:1.4.0"],\
+            ["emotion-normalize", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:11.0.1"],\
             ["eslint", "npm:8.43.0"],\
             ["eslint-plugin-react", "virtual:40cf6755bae092716f741c481268ed2341ffb2fa62e2d529bf5c33241ac3b1428e8a2f203d53bcaad5d253b9b06d0f7a71175ed83ecc9fedf0c74b63117afe75#npm:7.32.2"],\
             ["prop-types", "npm:15.8.1"],\

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.477750e8.css",
+    "main.js": "/static/js/main.e2bdfed7.js",
+    "static/js/990.a80933d8.chunk.js": "/static/js/990.a80933d8.chunk.js",
+    "static/media/NotoSansKR-Bold.otf": "/static/media/NotoSansKR-Bold.bad0e182b567b441991f.otf",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.c1f72746d9690ee899a5.ttf",
+    "index.html": "/index.html",
+    "main.477750e8.css.map": "/static/css/main.477750e8.css.map",
+    "main.e2bdfed7.js.map": "/static/js/main.e2bdfed7.js.map",
+    "990.a80933d8.chunk.js.map": "/static/js/990.a80933d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477750e8.css",
+    "static/js/main.e2bdfed7.js"
+  ]
+}

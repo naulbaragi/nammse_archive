@@ -8,14 +8,12 @@ import { nammseAPI_url } from '../../Url';
 const discography_module = css`
 background-image: url("/Image/Untitled.png");
 color: #bfff58;
-font-family: 'Oswald';
-// display: flex;
-// justify-content: center;
 display: grid;
 grid-template-columns: 1min;
 justify-items: center;
 align-items: center;
 `;
+
 
 
 function Discography() {

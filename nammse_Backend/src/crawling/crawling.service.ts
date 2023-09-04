@@ -208,7 +208,7 @@ export class CrawlingService {
   }
 
   // @Cron('0 0 8 * * *')
-  @Cron('0 12 * * * *')
+  // @Cron('0 12 * * * *')
   FactcheckUpdate() {
     this.logger.debug('Factcheck Update Start!!');
     (async function () {
