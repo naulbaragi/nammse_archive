@@ -4,20 +4,3 @@ Nammse Project는 나얼이 매주 금요일마다 선곡해, 제작하는 프�
 
 http://nammse.site/
 
-사용기술
-
-Frontend : Typescript, React
-
-Backend : Nest.js, Puppeteer
-
-SQL : MySQL
-
-Frontend
-Typescript
-React
-Backend
-Node.JS
-SQL
-MySQL
-0.etc
-Fedora
